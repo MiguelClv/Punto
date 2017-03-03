@@ -38,6 +38,6 @@ public class Main {
         Punto p2 = new Punto(x2,y2);
 
         System.out.println("Distancia Euclidea:");
-        p1.distanciaEuclidea(p2);
+        System.out.println(p1.distanciaEuclidea(p2));
     }
 }
